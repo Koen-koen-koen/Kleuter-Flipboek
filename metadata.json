@@ -1,0 +1,9 @@
+{
+  "name": "Kleuter Flipboek",
+  "description": "A kid-friendly flipbook application that lets kindergarteners switch between educational games and apps within a secure iframe environment.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
